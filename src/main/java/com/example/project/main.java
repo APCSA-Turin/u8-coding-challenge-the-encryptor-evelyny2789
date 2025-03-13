@@ -5,6 +5,6 @@ public class main {
     public static void main(String[] args) {
         String message = "HELLO";
         int rows = 4;
-        System.out.println(Encryptor.decryptMessage("ur=oe=yv!  eesdriia s ttwiuo oh?  yeoacldilonet H y", 7));
+        System.out.println(Encryptor.decryptMessage("rwt=at =m de ,nvshaiitsf nu yeoyathtd tnoh etcow", 4));
     }
 }
